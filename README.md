@@ -1,7 +1,7 @@
 olá meu nome é breno Germano  vulgo bl7 estudante de tecnico em informatica no CTISM-UFSM
-### 
-### gosto
-### então vem ser minha rainha
+### vc gosta de  xadrez?
+### gosto, pq?
+### pq quero q vc seja minha rainha
 uuuuooou meu lençol dobrado 
 
 ***
