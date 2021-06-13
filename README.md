@@ -7,7 +7,7 @@ uuuuooou meu lençol dobrado
 ***
 . ..- - . .- -- --- - . ..-. .-
 ***
--[ ] passar minha vida socializando
+-[ ] passar mnha vida  estudando
 
 
--[x] passar minha vida jogando e se arrepender anos depois
+-[x] passar minha vida jogando e se arrepender anos  depois
