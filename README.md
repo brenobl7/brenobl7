@@ -4,7 +4,7 @@ olá meu nome é breno Germano  vulgo bl7 estudante de tecnico em informatica no
 ### pq quero q vc seja minha rainha
 uuuuooou meu lençol dobrado   
 ***
-. ..- - . .- -- --- - . ..-. .-        
+ - .-. .- -.. ..- --.. .. ..- .--. --- .-. --.- ..- . --. .- -.-- 
 ***       
 * [ ] passar a vida estudando e ter futuro
 * [x] passar minha vida jogando e se arrepender anos depois
