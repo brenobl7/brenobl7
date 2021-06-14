@@ -9,4 +9,4 @@ uuuuooou meu lençol dobrado
 * [ ] passar a vida estudando e ter futuro
 * [x] passar minha vida jogando e se arrepender anos depois
 
-![emo bombado](https://www.reddit.com/r/HUEstation/comments/gmc9x8/tirei_uma_foto_do_google_e_botei_legenda_portanto/)
+![emo bombado](https://i.redd.it/f9r43coaslz41.png)
