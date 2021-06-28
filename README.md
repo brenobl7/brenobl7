@@ -10,3 +10,4 @@ uuuuooou meu lençol dobrado
 * [x] passar minha vida jogando e se arrepender anos depois
 
 ![emo bombado](https://i.redd.it/f9r43coaslz41.png)
+cansei de ser fake bro
