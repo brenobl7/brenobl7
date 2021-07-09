@@ -19,3 +19,6 @@ CERTIFICADOS
 -Pokedex feito pelo visual code em HTML
 
 -2 certificados de comendos do minecraft
+![_1_692444b2f7a1266689572b2ef3b43457](https://user-images.githubusercontent.com/85495824/125141479-89df9600-e0eb-11eb-8360-2e51a359d325.jpg)
+![_1_4853361a9f007e3d54ad2e5a6e6ffad7](https://user-images.githubusercontent.com/85495824/125141507-98c64880-e0eb-11eb-83ca-bc28807afe71.jpg)
+
