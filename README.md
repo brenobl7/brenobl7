@@ -15,6 +15,7 @@ uuuuooou meu lençol dobrado
 cansei de ser fake bro
 
 CERTIFICADOS
+
 -Pokedex feito pelo visual code em HTML
 
 -2 certificados de comendos do minecraft
