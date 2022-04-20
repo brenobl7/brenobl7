@@ -1,9 +1,7 @@
-olá meu nome é breno Germano  vulgo bl7 estudante de tecnico em informatica no CTISM-UFSM
+olá meu nome é breno Germano estudante de tecnico em informatica no CTISM-UFSM, sou morador da casa do estudante, como todos os dias no ru ufsm,
+analisando agr talvez...... eu seja pobre ;(
 
-### vc gosta de  xadrez?
-### gosto, pq?
-### pq quero q vc seja minha rainha
-uuuuooou meu lençol dobrado   
+
 ***
  - .-. .- -.. ..- --.. .. ..- / .--. --- .-. / --.- ..- . / / --. .- -.--
 ***       
@@ -11,8 +9,6 @@ uuuuooou meu lençol dobrado
 * [x] passar minha vida jogando e se arrepender anos depois
 
 ![emo bombado](https://i.redd.it/f9r43coaslz41.png)
-
-cansei de ser fake bro
 
 CERTIFICADOS
 
