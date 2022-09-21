@@ -3,7 +3,7 @@ analisando agr talvez...... eu seja pobre ;(
 
 
 ***
- - .-. .- -.. ..- --.. .. ..- / .--. --- .-. / --.- ..- . / / --. .- -.--
+- .-. .- -.. ..- --.. .. ..- / .--. --- .-. / --.- ..- . / / --. .- -.--
 ***       
 * [ ] passar a vida estudando e ter futuro
 * [x] passar minha vida jogando e se arrepender anos depois
