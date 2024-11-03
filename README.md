@@ -1,21 +1,11 @@
-olá meu nome é breno Germano estudante de tecnico em informatica no CTISM-UFSM, sou morador da casa do estudante, como todos os dias no ru ufsm,
-analisando agr talvez...... eu seja pobre ;(
+ # Olá
+ ### Meu nome é breno sou tecnico em informatica formado pelo CTISM-UFSM, estou cursando engenharia da computação na UFSM, sou iniciante no git hub, vou upsar alguns projetos que fiz durante o tecnico e durante a graduação
+[![brenobl7 GitHub stats](https://github-readme-stats.vercel.app/api?username=brenobl7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenobl7)](https://github.com/anuraghazra/github-readme-stats)<p>
+[![instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno_germano006/profilecard/?igsh=aGM2NGFkMGIxcGt1)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/breno-germano-88788927b/)<p>
 
 
-***
-- .-. .- -.. ..- --.. .. ..- / .--. --- .-. / --.- ..- . / / --. .- -.--
-***       
-* [ ] passar a vida estudando e ter futuro
-* [x] passar minha vida jogando e se arrepender anos depois
 
-![emo bombado](https://i.redd.it/f9r43coaslz41.png)
 
-CERTIFICADOS
-
--Pokedex feito pelo visual code em HTML
-![image](https://user-images.githubusercontent.com/85495824/125142797-fb6d1380-e0ee-11eb-93cf-12535776a2f1.png)
-
--2 certificados de comandos do minecraft
-![_1_692444b2f7a1266689572b2ef3b43457](https://user-images.githubusercontent.com/85495824/125141479-89df9600-e0eb-11eb-8360-2e51a359d325.jpg)
-![_1_4853361a9f007e3d54ad2e5a6e6ffad7](https://user-images.githubusercontent.com/85495824/125141507-98c64880-e0eb-11eb-83ca-bc28807afe71.jpg)
 
