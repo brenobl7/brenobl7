@@ -1,7 +1,4 @@
-
-
-
- # 💫 Sobre mim:
+# 💫 Sobre mim:
 Meu nome é breno sou tecnico em informatica formado pelo CTISM-UFSM, estou cursando engenharia da computação na UFSM, sou iniciante no git hub, vou upar alguns projetos que fiz durante o tecnico e durante a graduação
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21sj6i36nk3pfk2vaw3f7vdxy&unique={true|1|on|yes})
