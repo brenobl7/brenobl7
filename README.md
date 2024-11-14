@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=4000&pause=1000&color=F71325&center=true&vCenter=true&width=435&lines=Bem-Vindo+ao+meu+Github;Sou+Desenvolvedor+arduino;Formado+em+T.I+pelo+CTISM%2FUFSM;Graduando+de+Eng.+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=4000&pause=1000&color=F71325&center=true&vCenter=true&width=462&lines=Bem-Vindo+ao+meu+Github;Sou+Desenvolvedor+arduino;Formado+em+T.I+pelo+CTISM%2FUFSM;Graduando+de+Eng.+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 
 # 💫 Sobre mim:
