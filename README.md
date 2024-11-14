@@ -1,6 +1,11 @@
-# 💫 Sobre mim:
-Meu nome é breno sou tecnico em informatica formado pelo CTISM-UFSM, estou cursando engenharia da computação na UFSM, sou iniciante no git hub, vou upar alguns projetos que fiz durante o tecnico e durante a graduação
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=4000&pause=1000&color=F71325&center=true&vCenter=true&width=435&lines=Bem-Vindo+ao+meu+Github;Sou+Desenvolvedor+arduino;Formado+em+T.I+pelo+CTISM%2FUFSM;Graduando+de+Eng.+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
+
+# 💫 Sobre mim:
+Meu nome é Breno Germano, tenho 18 anos, sou tecnico em informatica formado pelo CTISM-UFSM, estou cursando engenharia da computação na UFSM, sou iniciante no git hub, vou upar alguns projetos que fiz durante o tecnico e durante a graduação
+
+
+# 🎵 Musica recente:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21sj6i36nk3pfk2vaw3f7vdxy&unique={true|1|on|yes})
 
 
