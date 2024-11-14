@@ -1,10 +1,31 @@
- # Olá
- ### Meu nome é breno sou tecnico em informatica formado pelo CTISM-UFSM, estou cursando engenharia da computação na UFSM, sou iniciante no git hub, vou upar alguns projetos que fiz durante o tecnico e durante a graduação
-[![brenobl7 GitHub stats](https://github-readme-stats.vercel.app/api?username=brenobl7&theme=dark&hide)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenobl7&theme=dark&hide)](https://github.com/anuraghazra/github-readme-stats)<p>
 
-[![instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breno_germano006/profilecard/?igsh=aGM2NGFkMGIxcGt1)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/breno-germano-88788927b/)<p>
+
+
+ # 💫 Sobre mim:
+Meu nome é breno sou tecnico em informatica formado pelo CTISM-UFSM, estou cursando engenharia da computação na UFSM, sou iniciante no git hub, vou upar alguns projetos que fiz durante o tecnico e durante a graduação
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100011019793532) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/breno_germano006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-germano-88788927b/) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brenobl7&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brenobl7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brenobl7&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--
+[![](https://visitcount.itsvg.in/api?id=brenobl7&icon=4&color=11)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brenobl7&theme=onedark&no-frame=false&no-bg=true&margin-w=4)-->
+
 
 
 
